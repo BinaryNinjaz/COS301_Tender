@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.8.21)  22 FEB 2018 00:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.8.21)  22 FEB 2018 20:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -152,27 +152,37 @@ Package pdftex.def Info: team.jpg used on input line 18.
 
 {/usr/local/texlive/2016basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./
 team.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 41--43
-
- []
-
-[2] [3] (./Harvest_2018.aux) ) 
+<Harvest.png, id=9, 622.325pt x 697.60625pt>
+File: Harvest.png Graphic file (type png)
+ <use Harvest.png>
+Package pdftex.def Info: Harvest.png used on input line 31.
+(pdftex.def)             Requested size: 280.04366pt x 313.9199pt.
+ [2 <./Harvest.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 53.
+ (/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 53.
+ [3]
+[4] [5] [6] (./Harvest_2018.aux) ) 
 Here is how much of TeX's memory you used:
- 1640 strings out of 494447
- 23762 string characters out of 6166766
- 78797 words of memory out of 5000000
- 4983 multiletter control sequences out of 15000+600000
- 6370 words of font info for 23 fonts, out of 8000000 for 9000
+ 1663 strings out of 494447
+ 24163 string characters out of 6166766
+ 80829 words of memory out of 5000000
+ 5002 multiletter control sequences out of 15000+600000
+ 6627 words of font info for 24 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 37i,6n,23p,907b,200s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016basic/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016basic/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016basic/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Harvest_2018.pdf (3 pages, 66192 bytes).
+ 37i,6n,23p,907b,235s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016basic/texmf-dist/font
+s/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016basic/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016basic/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2016basic/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Harvest_2018.pdf (6 pages, 213222 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
- 17 compressed objects within 1 object stream
+ 43 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
