@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.8.21)  24 FEB 2018 20:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.8.21)  24 FEB 2018 20:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -164,14 +164,14 @@ File: Harvest.png Graphic file (type png)
 Package pdftex.def Info: Harvest.png used on input line 137.
 (pdftex.def)             Requested size: 280.04366pt x 313.9199pt.
  [2 <./Harvest.png>] [3]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 162.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 161.
 
 
 (/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 162.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 161.
  [4] [5]
 [6] [7] [8] (./Harvest_2018.aux) ) 
 Here is how much of TeX's memory you used:
@@ -187,7 +187,7 @@ s/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016basic/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2016basic/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016basic/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Harvest_2018.pdf (10 pages, 223375 bytes).
+Output written on Harvest_2018.pdf (10 pages, 223373 bytes).
 PDF statistics:
  57 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
