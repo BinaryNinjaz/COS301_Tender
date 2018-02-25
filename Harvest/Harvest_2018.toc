@@ -12,3 +12,5 @@
 \contentsline {subsubsection}{\numberline {4.4.1}Skills:}{7}
 \contentsline {subsection}{\numberline {4.5}John Ojo}{8}
 \contentsline {subsubsection}{\numberline {4.5.1}Skills:}{8}
+\contentsline {subsection}{\numberline {4.6}Shaun Yates}{9}
+\contentsline {subsubsection}{\numberline {4.6.1}Skills:}{9}
