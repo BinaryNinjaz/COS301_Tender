@@ -2,7 +2,7 @@
 \contentsline {section}{\numberline {2}Technologies We'll Use}{3}
 \contentsline {section}{\numberline {3}Development Methodology}{3}
 \contentsline {section}{\numberline {4}Who We Are}{3}
-\contentsline {subsection}{\numberline {4.1}Letanyan Arumugam}{3}
+\contentsline {subsection}{\numberline {4.1}Letanyan Arumugam}{4}
 \contentsline {subsubsection}{\numberline {4.1.1}Skills:}{4}
 \contentsline {subsection}{\numberline {4.2}Kevin Reid}{5}
 \contentsline {subsubsection}{\numberline {4.2.1}Skills:}{5}
@@ -14,3 +14,4 @@
 \contentsline {subsubsection}{\numberline {4.5.1}Skills:}{8}
 \contentsline {subsection}{\numberline {4.6}Shaun Yates}{9}
 \contentsline {subsubsection}{\numberline {4.6.1}Skills:}{9}
+\contentsline {section}{\numberline {5}Our Motivation}{9}
