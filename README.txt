@@ -9,8 +9,6 @@ TEAM MEMBERS:
   Shaun Yates (u16007493)
   Teboho Mokoena (u14415888)
   
-  
-  
 PROJECT PREFERENCE:
   EPI-USE - NFC Bussiness Cards
   EPI-USE - Consultant Tracker
