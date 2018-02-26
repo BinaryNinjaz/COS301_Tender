@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.8.21)  25 FEB 2018 18:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.8.21)  26 FEB 2018 17:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -138,11 +138,11 @@ G,.JBIG2,.JB2,.eps]
 (/usr/local/texlive/2016basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
-)) <team.jpg, id=1, 77.088pt x 57.816pt>
+)) <team.jpg, id=1, 5267.68pt x 3950.76pt>
 File: team.jpg Graphic file (type jpg)
  <use team.jpg>
 Package pdftex.def Info: team.jpg used on input line 20.
-(pdftex.def)             Requested size: 272.99881pt x 204.81589pt.
+(pdftex.def)             Requested size: 272.99881pt x 204.72333pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -157,12 +157,12 @@ team.jpg>] [2]
 \tf@toc=\write3
 \openout3 = `Harvest_2018.toc'.
 
- [1] <Harvest.png, id=16, 622.325pt x 697.60625pt>
+ [1] <Harvest.png, id=16, 603.25375pt x 621.32124pt>
 File: Harvest.png Graphic file (type png)
 
 <use Harvest.png>
 Package pdftex.def Info: Harvest.png used on input line 137.
-(pdftex.def)             Requested size: 280.04366pt x 313.9199pt.
+(pdftex.def)             Requested size: 271.46167pt x 279.59198pt.
  [2 <./Harvest.png>] [3]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 161.
 
@@ -188,7 +188,7 @@ ic/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/20
 16basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive
 /2016basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texl
 ive/2016basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Harvest_2018.pdf (13 pages, 237500 bytes).
+Output written on Harvest_2018.pdf (13 pages, 7949546 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
