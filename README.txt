@@ -10,6 +10,6 @@ TEAM MEMBERS:
   Teboho Mokoena (u14415888)
   
 PROJECT PREFERENCE:
-  EPI-USE - NFC Bussiness Cards
-  EPI-USE - Consultant Tracker
-  Subtrop - Harvest_2018
+1.  EPI-USE - NFC Bussiness Cards
+2.  EPI-USE - Consultant Tracker
+3.  Subtrop - Harvest_2018
